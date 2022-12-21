@@ -20,13 +20,13 @@ The project consists of two pages:
 1. Clone project
 
 ```
-git clone
+git clone https://github.com/Nagy-Raouf/MyReads.git
 ```
 
 2. Navigate to the project directory
 
 ```
-cd
+cd ./MyReads
 ```
 
 3. Install dependencies
